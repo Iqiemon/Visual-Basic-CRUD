@@ -1,0 +1,24 @@
+C:\Users\ASUS\source\repos\Student Registeration1\Student Registeration1\bin\Debug\Student Registeration1.exe.config
+C:\Users\ASUS\source\repos\Student Registeration1\Student Registeration1\bin\Debug\Student Registeration1.exe
+C:\Users\ASUS\source\repos\Student Registeration1\Student Registeration1\bin\Debug\Student Registeration1.pdb
+C:\Users\ASUS\source\repos\Student Registeration1\Student Registeration1\bin\Debug\Student Registeration1.xml
+C:\Users\ASUS\source\repos\Student Registeration1\Student Registeration1\obj\Debug\Student Registeration1.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Student Registeration1\Student Registeration1\obj\Debug\Student_Registeration1.Form1.resources
+C:\Users\ASUS\source\repos\Student Registeration1\Student Registeration1\obj\Debug\Student_Registeration1.Resources.resources
+C:\Users\ASUS\source\repos\Student Registeration1\Student Registeration1\obj\Debug\Student Registeration1.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Student Registeration1\Student Registeration1\obj\Debug\Student Registeration1.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Student Registeration1\Student Registeration1\obj\Debug\Student Registeration1.exe
+C:\Users\ASUS\source\repos\Student Registeration1\Student Registeration1\obj\Debug\Student Registeration1.xml
+C:\Users\ASUS\source\repos\Student Registeration1\Student Registeration1\obj\Debug\Student Registeration1.pdb
+C:\Users\IqIe\Downloads\Project Visual Programming\Student Registeration1\Student Registeration1\bin\Debug\Student Registeration1.exe.config
+C:\Users\IqIe\Downloads\Project Visual Programming\Student Registeration1\Student Registeration1\bin\Debug\Student Registeration1.exe
+C:\Users\IqIe\Downloads\Project Visual Programming\Student Registeration1\Student Registeration1\bin\Debug\Student Registeration1.pdb
+C:\Users\IqIe\Downloads\Project Visual Programming\Student Registeration1\Student Registeration1\bin\Debug\Student Registeration1.xml
+C:\Users\IqIe\Downloads\Project Visual Programming\Student Registeration1\Student Registeration1\obj\Debug\Student Registeration1.vbprojAssemblyReference.cache
+C:\Users\IqIe\Downloads\Project Visual Programming\Student Registeration1\Student Registeration1\obj\Debug\Student_Registeration1.Form1.resources
+C:\Users\IqIe\Downloads\Project Visual Programming\Student Registeration1\Student Registeration1\obj\Debug\Student_Registeration1.Resources.resources
+C:\Users\IqIe\Downloads\Project Visual Programming\Student Registeration1\Student Registeration1\obj\Debug\Student Registeration1.vbproj.GenerateResource.cache
+C:\Users\IqIe\Downloads\Project Visual Programming\Student Registeration1\Student Registeration1\obj\Debug\Student Registeration1.vbproj.CoreCompileInputs.cache
+C:\Users\IqIe\Downloads\Project Visual Programming\Student Registeration1\Student Registeration1\obj\Debug\Student Registeration1.exe
+C:\Users\IqIe\Downloads\Project Visual Programming\Student Registeration1\Student Registeration1\obj\Debug\Student Registeration1.xml
+C:\Users\IqIe\Downloads\Project Visual Programming\Student Registeration1\Student Registeration1\obj\Debug\Student Registeration1.pdb
